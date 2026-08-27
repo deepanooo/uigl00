@@ -79,9 +79,7 @@ export default function AboutUs() {
 
             <div className="relative z-10">
               <p className="font-body text-sm leading-7 text-white/80 md:text-base md:leading-8">
-                <span className="font-bold text-gold-300">UI Games League</span> adalah
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolorum dolores, rem molestiae perspiciatis aut ad assumenda blanditiis
-                 doloremque temporibus optio repellendus laborum veritatis ex nostrum totam, culpa numquam delectus!
+                <span className="font-bold text-gold-300">UI Games League</span> 2026 merupakan program kerja eksternal berskala nasional yang dirancang sebagai turnamen esports kompetitif dan terstruktur, terbuka bagi siswa SMA sederajat dan mahasiswa. Kegiatan ini hadir sebagai wadah pengembangan prestasi, pembangunan semangat sportivitas, serta penguatan ekosistem esports di kalangan generasi muda.
               </p>
 
               <div className="my-6 h-px w-full bg-gradient-to-r from-gold-300/50 via-white/10 to-transparent" />

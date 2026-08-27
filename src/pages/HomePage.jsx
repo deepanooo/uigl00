@@ -494,7 +494,7 @@ export default function HomePage() {
           </section>
 
           {/* COUNTDOWN */}
-          <RegisterBefore targetDate={NEXT_DEADLINE} />
+   
 
           <SectionDivider />
 
